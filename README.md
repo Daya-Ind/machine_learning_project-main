@@ -9,7 +9,7 @@
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
 
-Creating conda environment
+Creating conda environment along with project(-p)
 ```
 conda create -p venv python==3.7 -y
 ```
